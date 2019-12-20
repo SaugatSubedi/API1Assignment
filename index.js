@@ -193,7 +193,7 @@ app.listen(3043);
 // function cb(req,res,next){   
 //     console.log('in registration');
 
-//     var x = {name: "Deepak Maharjan",test:'Received'}
+//     var x = {name: "Saugat subedi",test:'Received'}
 //     res.json(x);
 //     res.status(200);
 //     }
